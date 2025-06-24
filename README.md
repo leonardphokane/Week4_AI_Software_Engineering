@@ -24,7 +24,6 @@ Given a login form and a scenario prompt, this script generates Selenium-style t
 ### ✅ Task 3: Predictive Analytics for Resource Allocation
 Trains a `RandomForestClassifier` on breast cancer diagnostic data to predict issue priority. Includes data preprocessing, F1-score evaluation, and model saving.
 
-# Task 3 – Predictive Analytics for Resource Allocation
 
 > ✅ Accuracy: 96% | 🔁 Reusable Model Saved with joblib | 🎯 End-to-End ML Pipeline | 📊 Real-World Dataset | 📁 Structured Project
 
