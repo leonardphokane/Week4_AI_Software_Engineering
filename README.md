@@ -1,6 +1,6 @@
 # Week 4 – AI in Software Engineering 🧠
 
-This repository includes all deliverables for **Week 4** of the PowerLearn Project: *AI for Software Engineering*. Each task highlights how artificial intelligence can be applied to practical problems in the software development lifecycle.
+This repository includes all deliverables for **Week 4** of the Power Learn Project: *AI for Software Engineering*. Each task highlights how artificial intelligence can be applied to practical problems in the software development lifecycle.
 
 ---
 
@@ -24,6 +24,11 @@ Given a login form and a scenario prompt, this script generates Selenium-style t
 ### ✅ Task 3: Predictive Analytics for Resource Allocation
 Trains a `RandomForestClassifier` on breast cancer diagnostic data to predict issue priority. Includes data preprocessing, F1-score evaluation, and model saving.
 
+# Task 3 – Predictive Analytics for Resource Allocation
+
+> ✅ Accuracy: 96% | 🔁 Reusable Model Saved with joblib | 🎯 End-to-End ML Pipeline | 📊 Real-World Dataset | 📁 Structured Project
+
+
 ### ✅ Task 4: Design Suggestion Based on Requirements
 Takes textual requirements and maps them to potential software design patterns using pattern matching and simple NLP logic.
 
@@ -33,7 +38,7 @@ Takes textual requirements and maps them to potential software design patterns u
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Week4_AI_Software_Engineering.git
+   git clone https://github.com/leonardphokane/Week4_AI_Software_Engineering.git
 
 
 ---
@@ -41,5 +46,5 @@ Takes textual requirements and maps them to potential software design patterns u
 
 ## 🧑💻 Author  
 Leonard Phokane<br>
-Student @ PowerLearn Project<br>
+Student @ Power Learn Project<br>
 Focus: Software Engineering + Machine Learning + Ethical AI
